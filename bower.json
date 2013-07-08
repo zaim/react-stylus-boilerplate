@@ -1,0 +1,12 @@
+{
+  "name": "react-stylus-boilerplate",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "react": "~0.3.3"
+  }
+}
