@@ -15,7 +15,7 @@ Features
 * Uses Stylus, with [nib](http://visionmedia.github.io/nib/) included
 * Uses two build targets:
   - `grunt build` to compile JSX and Stylus into a *development* build
-  - `grunt dist` to minifiy and optimize the development build for production
+  - `grunt dist` to minify and optimize the development build for production
 
 TODO
 ----
